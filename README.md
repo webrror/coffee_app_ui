@@ -6,7 +6,7 @@ Coffee App UI in Flutter.
 
 ### Screenshot
 
-
+<img src="screenshots/ss.png" width=300>
 
 
 
